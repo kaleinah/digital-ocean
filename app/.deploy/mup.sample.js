@@ -3,7 +3,7 @@ module.exports = {
     one: {
       host: '137.184.229.210',
       username: 'root',
-      password: 'changeme'
+      password: 'eDM3:rgjWC38WUV'
     }
   },
 
